@@ -1,2 +1,2 @@
 # Keyboard Pedal with Arduino-
-Arduino code for projects 
+ Assistive Keyboard created with Arduino to write scrolling with a pedal and two pushbuttons. 
