@@ -1,5 +1,6 @@
 // All together
 
+//Clock and light installation  playing with the colors of the sky and different effects
 
 //Clock libraries
 #include <Wire.h>
