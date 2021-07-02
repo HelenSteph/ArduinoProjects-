@@ -1,0 +1,12 @@
+# Doomsday Time 
+   This is an interactive project inspired by the concept that the earth someday will end and that we have many problems that contribute to this end. This is the premise to create 
+   a small interaction based on how we can predict our remaining time on earth using as variables factors like overpopulation, global warming, etc. 
+   The schematic of this project is available into this folder. 
+   The  electronic components used for this project are:
+       - Arduino Uno
+       - Neopixel LED Ring 
+       - 5V Relay
+       - 12 VDC Water pump + piping 
+       - 12 Volts Battery
+       
+    For further information on this project [Link here}] (helenzegarra.com/portfolio/doomsday-time/)
