@@ -1,0 +1,7 @@
+ # Keyboard Pedal with Arduino
+   
+   Different control for a Keyboard based on a pedal and two pushbuttons. The main idea of this project is to create a different control for writing, so it can be used with the feet. 
+   In this project I worked with the collaboration of [Sarah Liriano] (https://www.sarahlirianoportfolio.com). 
+   
+   The schematic design made on fritzing is available under this folder. The  pedal is a guitar pedal  connected to a driver with Arduino.
+   For futher information on this project [Project full description] (https://helenzegarra.com/portfolio/pedal-keyboard/)
