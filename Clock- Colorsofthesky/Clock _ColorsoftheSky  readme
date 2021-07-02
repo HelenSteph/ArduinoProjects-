@@ -1,0 +1,10 @@
+# Colors of the sky
+
+ This is a small project creating a  light installation with the concept of playing with the colors of the sky and the perception of the light during the pass of time. 
+ This is the list of components used on this project: 
+    - Arduino Uno
+    - 2 Neopixel Rings
+    - OLED Screen 
+    - RTC-2331 
+    
+  For further information of how this project works please [visit this link] (https://helenzegarra.com/2021/06/29/the-colors-of-the-sky/).
