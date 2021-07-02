@@ -1,2 +1,3 @@
-# Keyboard Pedal with Arduino-
- Assistive Keyboard created with Arduino to write scrolling with a pedal and two pushbuttons. 
+# Arduino Projects-
+ Different interactive projects created with using Arduino and different components. 
+ Find the description, layout and required materials on each project. 
